@@ -36,7 +36,7 @@ from html.parser import HTMLParser
 from typing import Callable, Dict, List, Optional, Sequence, Set, Tuple
 from xml.etree import ElementTree
 
-__version__ = "1.0"
+__version__ = "1.0.0"
 
 DEFAULT_UA = "Mozilla/5.0 (compatible; sitemap-analyzer/%s; sitemap reader)" % __version__
 
