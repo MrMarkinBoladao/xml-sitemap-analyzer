@@ -245,6 +245,10 @@ python sitemap_analyzer.py example.com --ignore-robots
 
 Python 3.8+. No external libraries. Same behavior on Windows, macOS and Linux — on macOS and Linux the command is `python3` instead of `python`.
 
+## License
+
+[MIT](LICENSE). Use it, change it, ship it in something commercial — just keep the copyright notice. Provided as is, with no warranty.
+
 ---
 
 <a id="portugues"></a>
@@ -495,3 +499,7 @@ python sitemap_analyzer.py exemplo.com --lang pt --ignore-robots
 ## Requisitos
 
 Python 3.8 ou superior. Nenhuma biblioteca externa. Mesmo comportamento em Windows, macOS e Linux — em macOS e Linux o comando é `python3` em vez de `python`.
+
+## Licença
+
+[MIT](LICENSE). Pode usar, modificar e até embutir em algo comercial — só precisa manter o aviso de copyright. Fornecido como está, sem garantia.
