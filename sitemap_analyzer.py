@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Markin (MrMarkinBoladao)
 """
 sitemap_analyzer.py - Discover, collect and organize a site's public content.
 

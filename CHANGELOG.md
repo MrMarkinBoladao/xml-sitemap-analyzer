@@ -14,6 +14,11 @@ Versions follow [Semantic Versioning](https://semver.org/).
 
 ### Added
 - This changelog.
+- MIT license. Until now the repository was public with no license, which by
+  default means all rights reserved — nobody could legally reuse the code even
+  though it was readable. A `LICENSE` file, an `SPDX-License-Identifier` header
+  in `sitemap_analyzer.py` (so the license travels with the file when it is
+  copied on its own) and a License section in both README languages.
 
 ## [1.0.0] - 2026-09-24
 
