@@ -218,7 +218,7 @@ python sitemap_analyzer.py example.com --ignore-robots
 | `--retries N` | 1 | Extra attempts per request |
 | `--delay S` | 0 | Pause before each request |
 | `--ignore-robots` | — | Ignore `robots.txt` Disallow rules |
-| `--user-agent S` | `sitemap-analyzer/1.0` | Custom User-Agent |
+| `--user-agent S` | `sitemap-analyzer/1.0.0` | Custom User-Agent |
 | `--lang` | `en` | Output language: `en` or `pt` |
 | `--json FILE` | — | Save the full report as JSON |
 | `--csv FILE` | — | Save the page list as CSV |
@@ -469,7 +469,7 @@ python sitemap_analyzer.py exemplo.com --lang pt --ignore-robots
 | `--retries N` | 1 | Tentativas extras por requisição |
 | `--delay S` | 0 | Pausa antes de cada requisição |
 | `--ignore-robots` | — | Ignora as regras `Disallow` do `robots.txt` |
-| `--user-agent S` | `sitemap-analyzer/1.0` | User-Agent customizado |
+| `--user-agent S` | `sitemap-analyzer/1.0.0` | User-Agent customizado |
 | `--lang` | `en` | Idioma da saída: `en` ou `pt` |
 | `--json ARQ` | — | Salva o relatório completo em JSON |
 | `--csv ARQ` | — | Salva a lista de páginas em CSV |
